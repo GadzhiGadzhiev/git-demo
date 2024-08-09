@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+/.gradle/
+ /Wild/
+/build/classes/java/main/
+/.idea/
+/gradle/
+/.DS_Store/
